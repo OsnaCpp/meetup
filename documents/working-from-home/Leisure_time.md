@@ -37,3 +37,12 @@
 ## Books
 
 ## YouTube Channels
+
+* [InfoQ](https://www.youtube.com/channel/UCkQX1tChV7Z7l1LFF4L9j_g)
+* [Coding Tech](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ)
+* [media.ccc.de](https://media.ccc.de/)
+* [FOSDEM](https://www.youtube.com/channel/UC9NuJImUbaSNKiwF2bdSfAw)
+* [Free and Open Source Software Conference (FrOSCon) e.V.](https://www.youtube.com/channel/UCn9K9AvWwYK9h7WkvUh4XWg)
+* [GOTO Conferences](https://www.youtube.com/channel/UCs_tLP3AiwYKwdUHpltJPuA)
+* [Kurzgesagt](https://www.youtube.com/user/Kurzgesagt/featured)
+* [LastWeekTonight](https://www.youtube.com/user/LastWeekTonight)
