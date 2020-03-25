@@ -43,3 +43,7 @@
 * [Tough Call: Handling “Difficult” Remote Conversations Like a Pro](https://youtu.be/XyM8FRIO0b0)
 
 * [How to Be a High Performing Distributed Agile Team](https://youtu.be/dG8FeZ5ey5c)
+
+## Resources
+
+* [Ladybug Podcast Episode: Whats on our computers](https://ladybug.dev/whats-on-our-computers)
