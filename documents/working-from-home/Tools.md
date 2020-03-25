@@ -23,6 +23,10 @@
 
 [Discord](https://discordapp.com/)
 
+[Zoom](https://zoom.us/)
+
+[Loom](https://www.loom.com/)
+
 ## Ideas
 
 * Virtual coffee breaks over video chat (maybe in a dedicated channel which is always open)
