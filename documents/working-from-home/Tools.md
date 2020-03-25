@@ -51,3 +51,5 @@
 ## Resources
 
 * [Ladybug Podcast Episode: Whats on our computers](https://ladybug.dev/whats-on-our-computers)
+
+* [10 Tipps fürs Homeoffice (German)](https://www.patreon.com/posts/10-tipps-furs-35144012)
